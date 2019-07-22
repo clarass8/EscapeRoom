@@ -65,7 +65,7 @@
 									<div class="form-group">
 										<span class="form-label">Nombre</span> <input
 											class="form-control" type="text"
-											placeholder="Introduzca su nombre" id="nombre" name="nombre">
+											placeholder="Introduzca su nombre" id="nombre" name="nombre" required>
 									</div>
 								</div>
 								<div class="col-md-4">
@@ -73,7 +73,7 @@
 										<span class="form-label">Primer apellido</span> <input
 											class="form-control" type="text"
 											placeholder="Introduzca su primer apellido" id="apellido1"
-											name="apellido1">
+											name="apellido1" required>
 									</div>
 								</div>
 								<div class="col-md-4">
@@ -81,7 +81,7 @@
 										<span class="form-label">Segundo apellido</span> <input
 											class="form-control" type="text"
 											placeholder="Introduzca su segundo apellido" id="apellido2"
-											name="apellido2">
+											name="apellido2" required>
 									</div>
 								</div>
 							</div>
@@ -90,7 +90,7 @@
 								<div class="col-md-4">
 									<div class="form-group">
 										<input class="form-control" type="email"
-											placeholder="Introduzca su email" id="email" name="email">
+											placeholder="Introduzca su email" id="email" name="email" required>
 										<span class="form-label">Email</span>
 									</div>
 								</div>
@@ -98,7 +98,7 @@
 									<div class="form-group">
 										<input class="form-control" type="tel"
 											placeholder="Introduzca su telefono" id="telefono"
-											name="telefono"> <span class="form-label">Telefono</span>
+											name="telefono" required> <span class="form-label">Telefono</span>
 									</div>
 								</div>
 								<div class="col-md-4">
