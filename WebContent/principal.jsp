@@ -41,8 +41,10 @@
 				</button>
 			</div>
 		</nav>
-		<h3 class="mensaje">¿Te atreves a salir?</h3>
-		<img alt="" src="img/principal.cabecera2.jpg">
+		<p class="mensaje">¿Te atreves</p> 
+		<p class="mensaje" style="margin-top:1% !important; line-height:45px">a entrar?</p>
+		<p class="mensaje2">Visita nuestras salas...</p>
+		<img alt="" src="img/principal.cabecera4.jpg">
 	</div>
 	<!-- 	CUERPO	 -->
 	<div class="container-fluid-cuerpo"
@@ -70,7 +72,7 @@
 					</button></li>
 			</ul>
 		</div>
-		<br> <br> <br>
+		<br>
 		<!--  LISTADO DE ROOMS -->
 		<div class="container" style="text-align: inherit; padding: 0">
 			<a href="dinamica.jsp?id=1">

@@ -3,7 +3,7 @@
 /* CABECERA */
 .my-header {
 	width: 100%;
-	height: 759px;
+	height: 500px;
 }
 
 .my-header img {
@@ -45,15 +45,27 @@ a.nav-link {
 }
 
 .mensaje {
-	text-align: center;
-	margin-top: 15%;
-	font-size: 600%;
-	color: white;
+	margin-left: 5%;
+	margin-top: 8%;
+	font-size: 500%;
+	color: #EFEFEF;
 	font-family: fantasy;
+	}
+
+.mensaje2 {
+	margin-left: 35%;
+	margin-top: 7%;
+	font-size: 250%;
+	color: #460808;
+	font-family: fantasy;
+	line-height: 30px;
+	font-style:oblique;
 }
+
 /***** CUERPO *****/
 div .container-fluid-cuerpo {
 	background-image: url('img/laberinto.jpg');
+	position: relative;
 }
 
 .center-btn {
